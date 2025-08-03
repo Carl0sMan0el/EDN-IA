@@ -1,64 +1,78 @@
 # Atividades Básicas em Python
 
-Este repositório contém oito programas básicos desenvolvidos em Python. Cada programa foi criado para exercitar conceitos iniciais de programação, como impressão de mensagens, operações aritméticas simples e manipulação de variáveis.
+Este repositório contém vários programas em Python criados para praticar lógica de programação e uso de bibliotecas.
 
 ## Atividades
 
-### 1. Programa de Saudação
-Este programa imprime a mensagem `"Olá, mundo!"` na tela.
+### 1.  saudação
+Arquivo:  Saudação.py
 
-### 2. Calculadora de Soma
-Programa que realiza a soma de dois números fixos:
-- `numero1 = 12`
-- `numero2 = 14`
+### 2. Analise de numeros pares e impares
+Arquivo: Analise de numeros pares e impares.py
 
-Exibe o resultado da soma.
+### 3. Calculadora com operacoes basicas
+Arquivo: Calculadora com operacoes basicas.py
 
-### 3. Calculadora de Volume
-Programa que calcula o volume de uma caixa retangular usando as seguintes dimensões:
-- Comprimento: 12 cm
-- Largura: 14 cm
-- Altura: 20 cm
+### 4. Calculadora de consumo de combustível
+Arquivo: Calculadora de Consumo de Combustível.py
 
-O resultado é exibido em centímetros cúbicos (cm³).
+### 5. Calculadora de desconto
+Arquivo: Calculadora de Desconto.py
 
-### 4. Calculadora de Preço Total
-Programa que calcula o preço total de uma compra com as seguintes informações:
-- Nome do produto: `"Cadeira Infantil"`
-- Preço unitário: R$ 12.40
-- Quantidade: 3
+### 6. Calculadora de imc
+Arquivo: Calculadora de IMC.py
 
-Exibe o nome do produto, o preço unitário, a quantidade e o valor total da compra.
+### 7. Calculadora de média escolar
+Arquivo: Calculadora de Média Escolar.py
 
----
+### 8. Classificador de idade
+Arquivo: Classificador de Idade.py
 
-### 5. Conversor de Moeda
-Programa que converte um valor em reais para dólares e euros com as taxas fixas:
-- Valor em reais: R$ 100.00
-- Taxa do dólar: R$ 5.20
-- Taxa do euro: R$ 6.15
+### 9. Consultar endereço por cep com viacep
+Arquivo: Consultar endereço por CEP com ViaCEP.py
 
-Exibe os valores convertidos em dólares e euros, arredondados para duas casas decimais.
+### 10. Conversor de moeda
+Arquivo: Conversor de Moeda.py
 
-### 6. Calculadora de Desconto
-Programa que calcula o valor com desconto para um produto:
-- Nome do produto: `"Camiseta"`
-- Preço original: R$ 50.00
-- Desconto: 20%
+### 11. Conversor de temperatura
+Arquivo: Conversor de Temperatura.py
 
-Exibe o valor do desconto e o preço final do produto.
+### 12. Cotação de moeda com awesomeapi
+Arquivo: Cotação de moeda com AwesomeAPI.py
 
-### 7. Calculadora de Média Escolar
-Programa que calcula a média de três notas escolares:
-- Nota 1: 7.5
-- Nota 2: 8.0
-- Nota 3: 6.5
+### 13. Gerar perfil de usuário aleatório com api random user generator
+Arquivo: Gerar perfil de usuário aleatório com API Random User Generator.py
 
-Exibe as notas e a média final, arredondada para duas casas decimais.
+### 14. Gerar senha aleatória com caracteres especiais
+Arquivo: Gerar senha aleatória com caracteres especiais.py
 
-### 8. Calculadora de Consumo de Combustível
-Programa que calcula o consumo médio de combustível de um veículo:
-- Distância percorrida: 300 km
-- Combustível gasto: 25 litros
+### 15. Preco total
+Arquivo: Preco total.py
 
-Exibe o consumo médio em km/l, arredondado para duas casas decimais.
+### 16. Registro de notas e calculo da media da turma
+Arquivo: Registro de notas e calculo da media da turma.py
+
+### 17. Soma
+Arquivo: Soma.py
+
+### 18. Verificacao de senha segura
+Arquivo: Verificacao de senha segura.py
+
+### 19. Verificador de ano bissexto
+Arquivo: Verificador de Ano Bissexto.py
+
+### 20. Verificar se é palíndromo
+Arquivo: Verificar se é palíndromo.py
+
+### 21. Volume caixa
+Arquivo: Volume_caixa.py
+
+### 22. Calcular gorjeta
+Arquivo: calcular gorjeta.py
+
+### 23. Calcular preço final com desconto
+Arquivo: calcular preço final com desconto.py
+
+### 24. Calcular quantos dias uma pessoa está viva
+Arquivo: calcular quantos dias uma pessoa está viva.py
+
